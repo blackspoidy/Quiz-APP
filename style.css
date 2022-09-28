@@ -58,7 +58,7 @@
   }
   button:focus{
     outline: none;
-    color: rgba(99, 36, 36, 0.856);
+    color: white;
   }
   #question{
     color: rgba(99, 36, 36, 0.856);
